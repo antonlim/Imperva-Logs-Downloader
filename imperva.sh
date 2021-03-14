@@ -5,10 +5,8 @@
 # Date Created = 13 March 2021
 
 program="Imperva Logs Downloader Systems"
-credit="Created by Packet Systems Indonesia, 2021."
 
 echo "$program"
-echo "$credit"
 echo -e "\n"
 echo "1. Start Incapsula Logs"
 echo "2. Stop Incapsula Logs"
